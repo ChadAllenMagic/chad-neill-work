@@ -1,2 +1,2 @@
-const numberOfCards=52;
-console.log(numberOfCards + 2 );
+const numberOfCards = 52;
+console.log(numberOfCards + 2);
