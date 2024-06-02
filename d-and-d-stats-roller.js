@@ -11,7 +11,7 @@ allStats.sort(compareNumbers);
 let garbageNumber = allStats.shift();
 console.log("discard roll", garbageNumber);
 
-console.log(allStats);
+console.log("final rolls for stats", allStats);
 function rollOneStat() {
   let result1 = rollD6();
   let result2 = rollD6();
