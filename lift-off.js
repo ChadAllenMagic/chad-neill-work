@@ -1,9 +1,6 @@
-let counter = 3;
-
-while (counter > 0) {
-    console.log (counter);
-    counter = counter -1;
-    
+let counter = 13;
+while (counter >= 0) {
+  console.log(counter);
+  counter--;
 }
 
-console.log("Blast Off!");
