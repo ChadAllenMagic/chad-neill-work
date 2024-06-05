@@ -4,3 +4,5 @@ while (counter >= 0) {
   counter--;
 }
 
+console.log("Lift Off!");
+
